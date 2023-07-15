@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+scipy
+pickle5
+nltk
+xgboost
+seaborn
+matplotlib
+pickle5
