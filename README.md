@@ -10,4 +10,7 @@ The Jupyter notebook showcases the training of Random Forest, XGBoost, and Naive
 # GUI Development
 Gradio is utilized to create a user-friendly graphical user interface (GUI). One notable advantage of Gradio is its ability to keep the application live for 72 hours by generating a public link.
 
+# Application Demo
 
+
+![ezgif com-video-to-gif (1)](https://github.com/atharvnagrikar/DonorChooseFinalScaler/assets/111486339/76752950-38de-43a0-9ca5-1dedec9e2363)
